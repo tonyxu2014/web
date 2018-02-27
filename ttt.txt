@@ -14,3 +14,5 @@ hahhhhh
 22222
 
 modify  ttt.txt
+
+ssh  push
